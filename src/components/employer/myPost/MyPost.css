@@ -1,0 +1,18 @@
+.jobPosted {
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
+  }
+  .btn2 {
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+  }
+  .btnView{
+    margin-top: 10px;
+    width: 100px;
+    margin-left: 50%;
+  }

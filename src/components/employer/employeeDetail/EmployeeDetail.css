@@ -1,0 +1,25 @@
+.card2 {
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
+  }
+  .btn2 {
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+  }
+  .jobpostedbyme_div{
+    width: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 20px;
+  }
+  .modal-button{
+    background-color: #6E6F6F;
+    color: white;
+  }
+  .jobpostedbyme_col{
+    margin: auto;
+  }

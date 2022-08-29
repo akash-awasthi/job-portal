@@ -1,0 +1,71 @@
+.jobs{
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px solid #CBCBCB;
+    margin-bottom: 30px;
+    padding: 20px;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+.btn-dark{
+    width: 100px;
+    /* margin-bottom: 10px; */
+    border-radius: 4px;
+    border: 2px solid transparent;
+    margin: 45px auto;
+    color: white;
+    padding: 5px;
+}
+.btn-dark:hover{
+    width: 100px;
+    /* margin-bottom: 10px; */
+    border-radius: 4px;
+    background-color: transparent;
+    transition: 0.3s;
+    color: black;
+    margin: 45px auto;
+    padding: 5px;
+}
+h3, h5{
+    margin-top: 10px;
+}
+.jobs{
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px solid #CBCBCB;
+    margin-bottom: 30px;
+    padding: 20px;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+.btn-dark{
+    width: 100px;
+    /* margin-bottom: 10px; */
+    border-radius: 4px;
+    border: 2px solid transparent;
+    margin: 100px auto;
+    color: white;
+    padding: 5px;
+}
+.btn-dark:hover{
+    width: 100px;
+    /* margin-bottom: 10px; */
+    border-radius: 4px;
+    background-color: transparent;
+    transition: 0.3s;
+    color: black;
+    margin: 100px auto;
+    padding: 5px;
+}
+.job_company_title>h6{
+    font-family: montserratregular;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.jobs_col>p{
+    font-family: montserratregular;
+    font-size: 15px;
+
+}
